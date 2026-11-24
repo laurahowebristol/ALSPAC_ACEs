@@ -15,7 +15,7 @@ The files are:
 - SI_data1_ACE_definitions_overtime_2026.xls - including names of all core variables used to capture ACEs, and some meta-data about them (e.g. time-periods they cover, how asked, and when). This excel file is called upon within the R scripts.
   
 - Script_1_Recode_the_original_variables_to_binary_2026.R - this file includes syntax that formats the data to correspond with their expected format for Scripts 2 (derive ACEs) and 3 (imputation). The resulting data file at the end of Script 1 is called  ‘binary_alspacKids_ACE_data.RData’
-- 
+
 - Script_2_Derive_binary_ACEs_2026.R - this file includes syntax to derive the inidivdual binary ACE variables (classic and extended types), and counts of how many ACEs each individual experiences. The resulting data file at the end is ‘alspacKids_ACE_0_16.RData’ (unless you change the object ‘fileid_out’).
 
 - Script_3_multiple_imputation_ACE_constructs_2026.R - this file carries out multiple imputation. The resulting data file at the end of Script 3 is called  ‘imputed_combined_[today's date].RData’
