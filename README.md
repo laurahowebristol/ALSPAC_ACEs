@@ -8,7 +8,7 @@ These files relate to the original Houtepen 2018 Wellcome Open Research paper, a
 In this GitHub repository, there are three R scripts and two Excel files that can be used to derive the ACE variables and perform multiple imputation, and a Word document to guide the user. 
 
 The files are:
-- Notes for data use_ALSPAC ACEs July 2026 - this document is intended to guide the user through building the dataset, and then using the three R scripts to format the data, derive ACEs, and carry out imputation.
+- Notes for data use_ALSPAC ACEs July 2026.docx - this document is intended to guide the user through building the dataset, and then using the three R scripts to format the data, derive ACEs, and carry out imputation.
 
 - 0_setup_required variables.xls - includes names of all core variables used to capture ACEs as well as all auxilliary variables used in imputation. An ALSPAC Direct User needs to create a dataset that includes these variables as a first step. If an external user, these are the minimum variables that should be requested from the ALSPAC team.
 
