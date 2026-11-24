@@ -20,4 +20,4 @@ The files are:
 
 - Script_3_multiple_imputation_ACE_constructs_2026.R - this file carries out multiple imputation. The resulting data file at the end of Script 3 is called  ‘imputed_combined_[today's date].RData’
 
-If you discover any inaccuracies/inconsistencies while using these files please contact annie.herbert@bristol.ac.uk and bushra.farooq@bristol.ac.uk.
+If you discover any inaccuracies/inconsistencies while using these files please contact annie.herbert@bristol.ac.uk or bushra.farooq@bristol.ac.uk.
